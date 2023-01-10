@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "http://dylanhauser.com/",
+  "homepage": "https://dylanhauser.com/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dhauser44/Personal"
+    "url": "https://github.com/dhauser44/Personal.git"
   },
   "engines": {
     "node": ">=14.x"
