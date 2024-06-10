@@ -1,12 +1,12 @@
 const positions = [
   {
-    company: 'Promoquo',
+    company: 'Endorse',
     position: 'Founder, C.E.O.',
-    link: 'https://promoquo.com',
+    link: 'https://getendorse.com',
     daterange: 'January 2020 - Present',
     points: [
       'Designed commerce website providing compensation tools between two parties.',
-      'Self-taught languages such as Javascript, React, CSS for both front-end and back-end development.',
+      'Self-taught languages such as Javascript, React, CSS, Html, Node, and more for front-end and back-end development.',
       'Constructed responsive website for both web and mobile users',
       'Created unique branding guidelines',
     ],
