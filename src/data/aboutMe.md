@@ -1,11 +1,11 @@
 
 # Intro
 
-I am a Founder of [Promoquo](https://promoquo.com/), and an avid believer in using content to promote great brands and compensate fantastic people.
+I am the Founder of [Endorse](https://getendorse.com/), and an avid believer in using content to promote great brands and compensate fantastic people.
 
 # Currently
 
-At Promoquo, I have learned how to build user experiences, as well as backends, and the next phase is gaining traction with users developing relationships with customers. As CEO i wear a lot of hats, almost everyone of them at this point, and I am looking forward to focusing on sales more rather than web developing.
+At Endorse, I have learned how to build user experiences, as well as backends, and the next phase is gaining traction with users developing relationships with customers. As CEO i wear a lot of hats, almost everyone of them at this point, and I am looking forward to focusing on sales more rather than web developing.
 
 # Some history
 
