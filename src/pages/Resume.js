@@ -5,11 +5,12 @@ import Main from '../layouts/Main';
 
 import Education from '../components/Resume/Education';
 import Experience from '../components/Resume/Experience';
+import Skills from '../components/Resume/Skills';
 import References from '../components/Resume/References';
 
 import degrees from '../data/resume/degrees';
 import positions from '../data/resume/positions';
-import skillGroups from '../data/resume/skillGroups';
+import { skills, categories } from '../data/resume/skills';
 
 const sections = [
   'Experience',
@@ -56,16 +57,7 @@ const Resume = () => (
           <div className="title"><h3>Credentials</h3></div>
           <p>Google Analytics | OMCA Online Marketing | SEO Foundations | Google Ads</p>
         </section>
-        <section className="skills">
-          <div className="link-to" id="skills" />
-          <div className="title"><h3>Skills</h3></div>
-          {skillGroups.map((group) => (
-            <div key={group.title}>
-              <h4>{group.title}</h4>
-              <p>{group.description}</p>
-            </div>
-          ))}
-        </section>
+        <Skills skills={skills} categories={categories} />
         <References />
 
       </article>
