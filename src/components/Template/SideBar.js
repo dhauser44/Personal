@@ -9,11 +9,11 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/heads-hot.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/headshot.png`} alt="" />
       </Link>
       <header>
         <h2>Dylan Hauser</h2>
-        <p><a href="mailto:dylanhauser@promoquo.com">dylanhauser@promoquo.com</a></p>
+        <p><a href="mailto:dylan.hauser@yahoo.com">dylan.hauser@yahoo.com</a></p>
       </header>
     </section>
 
